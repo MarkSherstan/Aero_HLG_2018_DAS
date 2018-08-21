@@ -1,0 +1,1 @@
+Video frames get saved to /output folder
